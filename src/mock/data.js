@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'Willie.jpg',
+  img: 'willie.jpg',
   paragraphOne:
     'Ever since I joined my highschool robotics team, I knew I wanted to work in technology in a collaborative enviroment. There was just something about debugging past midnight with the team while eating IHOP pancakes that convinced me that software engineering was for me.',
   paragraphTwo:
