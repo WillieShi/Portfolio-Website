@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'Willie.png',
+  img: 'Willie.jpg',
   paragraphOne:
     'Ever since I joined my highschool robotics team, I knew I wanted to work in technology in a collaborative enviroment. There was just something about debugging past midnight with the team while eating IHOP pancakes that convinced me that software engineering was for me.',
   paragraphTwo:
@@ -29,6 +29,16 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'book.PNG',
+    title: 'Bookipedia',
+    info: 'Full Stack React Website that draws from 2 API sources and webscraped library data to form a relational database between books, authors, and libraries.',
+    info2:
+      'Data can be accessed through Postman designed API endpoints; Backend content is handled with an AWS PostGres SQL instance.',
+    url: 'https://www.bookipedia.me/',
+    repo: 'https://gitlab.com/mayankdaruka/bookipedia.git', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'ARFaceTrack.PNG',
