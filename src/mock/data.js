@@ -24,7 +24,7 @@ export const aboutData = {
     "Today, I'm still pursuing my computer science studies with a specific interest in applied data science and machine learning, along with a personal side passion in game design. In addition, I'm also studying liberal arts because I feel it gives me a broader understanding of people and society that allows me to be a more conscious designer and communicator.",
   paragraphThree:
     'In my free time I like to dabble in film and animation, play the piano, and read webnovels(I recommend The Wandering Inn).',
-  resume: 'https://drive.google.com/file/d/1FQCPrfmBKYPB0Vwb6SzSnYu6nnAS-_4D/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1lSxNU53YlRRwx2etVF4sOFterL4kEcsj/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
